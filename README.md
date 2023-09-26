@@ -15,6 +15,9 @@ Another LLM-wrapper that works like Metaphor and can be used as a backup service
 [Render](https://www.render.com) <br>
 Render is a pretty good, scalable web host with a free tier for small, test projects. If the project works out, there's no need to transfer files to another host -- you can simply upgrade. (Similarly, if your project does not work out, the hosting service would not have cost you anything.)<br>
 
+[Github Pages](https://pages.github.com/) <br>
+Github allows you to host a static webpage for free, provided it doesn't require any back-end programming (HTML, CSS, and/or JavaScript only).<br>
+
 [Canva](https://canva.com) <br>
 Template-based design platform that can produce very good slide decks with relatively little effort. There is a free tier.<br>
 
