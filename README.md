@@ -1,5 +1,5 @@
 # Non-tech Tech Stack for Effective Business Ops
-Non-tech Tech Stack<br>
+This is meant to be a working listing of resources, meaning teams can refer to this list as needed. The focus of this list is to bring together free resources that are genuinely useful in business. No conjecture; no "this might be interesting to someone"; instead, these are tools we use all the time. As such, the contents of this list will change from time to time, as better services arise or older services lose their appeal.<br>
 
 [Claude AI](https://claude.ai/login) <br>
 LLM that allows large pdf uploads. After uploading, you can ask the LLM questions about the pdf documents.<br>
@@ -14,3 +14,9 @@ Another LLM-wrapper that works like Metaphor and can be used as a backup service
 
 [Render](https://www.render.com) <br>
 Render is a pretty good, scalable web host with a free tier for small, test projects. If the project works out, there's no need to transfer files to another host: you can simply upgrade. (Similarly, if it does not work out, the test didn't cost you anything.)<br>
+
+[Canva](https://canva.com) <br>
+Template-based design platform that can produce very good slide decks with relatively little effort. There is a free tier.<br>
+
+[Photopea](https://www.photopea.com/) <br>
+Free Photoshop alternative.
