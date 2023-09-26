@@ -13,7 +13,7 @@ Another LLM-wrapper that works like Metaphor and can be used as a backup service
 > Note on LLM-wrappers: You can use these services for free credits, to extend free credits given by OpenAI's ChatGPT or other LLMs.<br>
 
 [Render](https://www.render.com) <br>
-Render is a pretty good, scalable web host with a free tier for small, test projects. If the project works out, there's no need to transfer files to another host: you can simply upgrade. (Similarly, if it does not work out, the test didn't cost you anything.)<br>
+Render is a pretty good, scalable web host with a free tier for small, test projects. If the project works out, there's no need to transfer files to another host -- you can simply upgrade. (Similarly, if your project does not work out, the hosting service would not have cost you anything.)<br>
 
 [Canva](https://canva.com) <br>
 Template-based design platform that can produce very good slide decks with relatively little effort. There is a free tier.<br>
