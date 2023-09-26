@@ -10,7 +10,7 @@ LLM-wrapper that enhances search capability. From experience using the product, 
 [Perplexity AI](https://www.perplexity.ai/) <br>
 Another LLM-wrapper that works like Metaphor and can be used as a backup service if Metaphor goes down or you run out of free credits.<br>
 
-Note on LLM-wrappers: You can use these services for free credits, to extend free credits given by OpenAI's ChatGPT or other LLMs.<br>
+> Note on LLM-wrappers: You can use these services for free credits, to extend free credits given by OpenAI's ChatGPT or other LLMs.<br>
 
 [Render](https://www.render.com) <br>
 Render is a pretty good, scalable web host with a free tier for small, test projects. If the project works out, there's no need to transfer files to another host: you can simply upgrade. (Similarly, if it does not work out, the test didn't cost you anything.)<br>
