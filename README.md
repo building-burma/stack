@@ -22,4 +22,10 @@ Github allows you to host a static webpage for free, provided it doesn't require
 Template-based design platform that can produce very good slide decks with relatively little effort. There is a free tier.<br>
 
 [Photopea](https://www.photopea.com/) <br>
-Free Photoshop alternative.
+Free Photoshop alternative.<br>
+
+[Built With](https://builtwith.com/) <br>
+Toolkit for peering into technologies used on various websites.
+
+[Banner Bear](https://www.bannerbear.com/) <br>
+Generate pro-quality images and graphics for social media and banner ads, automatically.
